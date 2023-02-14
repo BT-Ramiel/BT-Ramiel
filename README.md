@@ -6,7 +6,7 @@
 
 ## About me
 
-I am a 22 years old graduated system engineer residing in Nicaragua, Central America. I am currently working with web development technologies applying SOLID principles in most cases and looking forward to become a top tier software engineer. I consider myself a fullstack developer although I would say most of my hard skills are into frontend development :wink:.
+I am a 23 years old graduated system engineer residing in Nicaragua, Central America. I am currently working with web development technologies applying SOLID principles in most cases and looking forward to become a top tier software engineer. I consider myself a fullstack developer although I would say most of my hard skills are into frontend development :wink:.
 
 ## Tools used
 
